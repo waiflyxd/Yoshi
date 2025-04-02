@@ -1,0 +1,7 @@
+.header-button_menu{
+    z-index: 2;
+}
+.menu-btn{
+    cursor: pointer;
+    transition: color 0.2s ease;
+}
